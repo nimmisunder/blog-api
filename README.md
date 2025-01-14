@@ -8,12 +8,21 @@ This project includes Postman collections and environments for easy testing of t
 
 
 API Endpoints
+
 Register User: POST /api/register
+
 Login User: POST /api/login
+
 Create Post: POST /api/posts
+
 Get Posts: GET /api/posts
+
 Create Comment: POST /api/comments
+
 Get Comments for Post: GET /api/posts/{id}/comments
+
 Create Tag: POST /api/tags
+
 Assign Tag to Post: POST /api/posts/{id}/tags
+
 Get Tags for Post: GET /api/posts/{id}/tags
